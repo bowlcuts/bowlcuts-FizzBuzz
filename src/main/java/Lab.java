@@ -21,7 +21,7 @@ public class Lab {
             return "Buzz";
         } else if (n % 3 == 0) {
             return "Fizz";
-        }
+        } else
         return "";
     }
 }
